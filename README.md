@@ -53,6 +53,8 @@ Aplicación de los mejores modelos a todos los transformadores:
 - Modelos Prophet optimizados aplicados a todos los transformadores según su clasificación:
   - `Ejecución_no_invierte (P).ipynb`- Potencia activa para transformadores sin inversión de flujo
   - `Ejecucion_no_invierte_Q.ipynb`- Potencia reactiva para ransformadores sin inversión de flujo
+  - `Ejecucion_invierte_P.ipynb`- Potencia activa para ransformadores con inversión de flujo
+  - `Ejecucion_invierte_Q.ipynb`- Potencia reactiva para ransformadores con inversión de flujo
  
 ### 📁 `tfm-transformadores/`
 - `Errores_Chilquinta.ipynb` - Cálculo del error de Chilquinta para comparación y validación de modelos
