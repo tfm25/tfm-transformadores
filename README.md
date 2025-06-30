@@ -54,5 +54,5 @@ Aplicación de los mejores modelos a todos los transformadores:
   - `Ejecución_no_invierte (P).ipynb`- Potencia activa para transformadores sin inversión de flujo
   - `Ejecucion_no_invierte_Q.ipynb`- Potencia reactiva para ransformadores sin inversión de flujo
  
-### `Errores_Chilquinta.ipynb` - Cálculo del error de Chilquinta para comparación
-
+### 📁 `tfm-transformadores/`
+- `Errores_Chilquinta.ipynb` - Cálculo del error de Chilquinta para comparación y validación de modelos
