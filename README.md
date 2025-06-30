@@ -42,8 +42,8 @@ Contiene los modelos de predicción implementados:
   - `LSTM_Valparaiso_T1_Q.ipynb` - Modelo LSTM para potencia reactiva del transformador Valparaíso T1
 
 - **Modelos Prophet**: 
-  - `Modelos_Prophet_final_SanFelipe_Valparaiso.ipynb` - Implementación unificada de todos los modelos Prophet para ambos transformadores y tipos de potencia
-  - `Modelo_prophet_ValparaisoT1_p_q_mejoras.ipynb` - Optimizaciones y mejoras aplicadas a los modelos Prophet para Valparaíso T1 para potencia activa y potencia ractiva
+  - `Modelos_Prophet_final_SanFelipe_Valparaiso.ipynb` - Modelos Prophet para transformadores San Felipe T1 y Valparaíso T1, potencia activa y reactiva
+  - `Modelo_prophet_ValparaisoT1_p_q_mejoras.ipynb` - Optimizaciones y mejoras aplicadas a los modelos Prophet para Valparaíso T1 para potencia activa y ractiva
   - `VF_Mejora_Modelo_Meteo_prophet_SanFelipe_P.ipynb` - Optimizaciones y mejoras aplicadas a los modelos Prophet para la potencia activa del transformador San Felipe T1
   - `VF_Q_SanFelipe_mejorar_modelo.ipynb` - Optimizaciones y mejoras aplicadas a los modelos Prophet para la potencia reactiva del transformador San Felipe T1
 
