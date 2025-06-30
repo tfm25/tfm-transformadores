@@ -58,3 +58,4 @@ Aplicación de los mejores modelos a todos los transformadores:
  
 ### 📁 `tfm-transformadores/`
 - `Errores_Chilquinta.ipynb` - Cálculo del error de Chilquinta para comparación y validación de modelos
+- `Tratamiento outliers gráficas específicas por transformador.pdf`- Gráficas post tratamiento de outliers por transformador
