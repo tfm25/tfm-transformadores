@@ -44,17 +44,18 @@ Contiene los modelos de predicción implementados:
 - **Modelos Prophet**: 
   - `Modelos_Prophet_final_SanFelipe_Valparaiso.ipynb` - Modelos Prophet para transformadores San Felipe T1 y Valparaíso T1, potencia activa y reactiva
   - `Modelo_prophet_ValparaisoT1_p_q_mejoras.ipynb` - Optimizaciones y mejoras aplicadas a los modelos Prophet para Valparaíso T1 para potencia activa y ractiva
-  - `VF_Mejora_Modelo_Meteo_prophet_SanFelipe_P.ipynb` - Optimizaciones y mejoras aplicadas a los modelos Prophet para la potencia activa del transformador San Felipe T1
-  - `VF_Q_SanFelipe_mejorar_modelo.ipynb` - Optimizaciones y mejoras aplicadas a los modelos Prophet para la potencia reactiva del transformador San Felipe T1
+  - `Modelo_prophet_San_Felipe_p_mejoras.ipynb` - Optimizaciones y mejoras aplicadas a los modelos Prophet para la potencia activa del transformador San Felipe T1
+  - `Modelo_prophet_San_Felipe_q_mejoras.ipynb` - Optimizaciones y mejoras aplicadas a los modelos Prophet para la potencia reactiva del transformador San Felipe T1
 
 ### 📁 `todos-transformadores/`
 Aplicación de los mejores modelos a todos los transformadores:
 
 - Modelos Prophet optimizados aplicados a todos los transformadores según su clasificación:
   - `Ejecución_no_invierte (P).ipynb`- Potencia activa para transformadores sin inversión de flujo
-  - `Ejecucion_no_invierte_Q.ipynb`- Potencia reactiva para ransformadores sin inversión de flujo
-  - `Ejecucion_invierte_P.ipynb`- Potencia activa para ransformadores con inversión de flujo
-  - `Ejecucion_invierte_Q.ipynb`- Potencia reactiva para ransformadores con inversión de flujo
+  - `Ejecucion_no_invierte_Q.ipynb`- Potencia reactiva para transformadores sin inversión de flujo
+  - `Ejecucion_invierte_P.ipynb`- Potencia activa para transformadores con inversión de flujo
+  - `Ejecucion_invierte_Q.ipynb`- Potencia reactiva para transformadores con inversión de flujo
+  - `Ejecucion_invierte_Q_festivos.ipynb`- Potencia reactiva para transformadores con inversión de flujo solo festivos
  
 ### 📁 `tfm-transformadores/`
 - `Errores_Chilquinta.ipynb` - Cálculo del error de Chilquinta para comparación y validación de modelos
